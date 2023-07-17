@@ -1,0 +1,1 @@
+import{_ as s,o,c as n,a as r,t as c}from"./index-0e074c04.js";const _={data(){return{data:{}}},mounted(){const t="https://randomuser.me/api/";this.$http.get(t).then(e=>{this.data=e.data.results[0]})}},d={class:"about"};function u(t,e,i,p,a,l){return o(),n("div",d,[r("h1",null,c(a.data.gender),1)])}const m=s(_,[["render",u]]);export{m as default};
