@@ -1,4 +1,5 @@
-import './assets/main.css'
+// import './assets/main.css' 
+// 換成scss就不需要了
 
 import { createApp } from 'vue'
 import { createPinia } from 'pinia'
